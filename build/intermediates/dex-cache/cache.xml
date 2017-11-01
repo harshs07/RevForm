@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Harsh/Documents/RevnetForm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/Harsh/Documents/RevnetForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e6d7c3ae3afded9a46f6a05ab77dd146f19905ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Harsh/Documents/RevnetForm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2de46eb82470477f96c1504c46bc71c698bae4d9">
+        <dex dex="/Users/Harsh/Documents/RevnetForm/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_76de5fd09f066ad568e00167f3a3be714cdb6a0f/classes.dex" />
+    </item>
+
+</items>
